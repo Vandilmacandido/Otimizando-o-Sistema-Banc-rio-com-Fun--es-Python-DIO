@@ -60,17 +60,16 @@ Certifique-se de ter o Python 3 instalado.
 Salve o código otimizado em um arquivo, por exemplo:
 
 Copiar código
-sistema_bancario.py
-Execute no terminal ou prompt:
+desafio1.py
+Execute no terminal:
 
 bash
-Copiar código
-python sistema_bancario.py
+python desafio1.py.py
 📝 Exemplo de Uso
 Ao rodar o programa, será exibido o menu:
 
 csharp
-Copiar código
+
 =============== MENU ================
 [d]  Depositar
 [s]  Sacar
